@@ -1,0 +1,16 @@
+{
+    "members": [
+      {
+        "username": "Mikasa ACHERMAN",
+        "password": 123
+      },
+      {
+        "username": "Eren JAGER",
+        "password": 456
+      },
+      {
+        "username": "Armin ARLERT",
+        "password": 789
+      }
+    ]
+  }
